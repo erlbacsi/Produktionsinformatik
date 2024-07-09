@@ -1,0 +1,37 @@
+solid Visualization Toolkit generated SLA File
+ facet normal -0 0 1
+  outer loop
+   vertex 4 6 0
+   vertex 1 4 0
+   vertex 4 0 0
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex 4 6 0
+   vertex 4 0 0
+   vertex 7 3 0
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex 4 6 0
+   vertex 7 3 0
+   vertex 6 9 0
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex 4 6 0
+   vertex 6 9 0
+   vertex 3 9 0
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex 4 6 0
+   vertex 3 9 0
+   vertex 1 4 0
+  endloop
+ endfacet
+endsolid
