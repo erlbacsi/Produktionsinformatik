@@ -71,7 +71,7 @@ With the calculated rotation and translation, it is possible to transform the in
 
 ![Schritt 5](Bilder/Ausgang_oben.png)
 ![Schritt 5](Bilder/Rotation.png)
-![Schritt 5](Bilder/Rotation_und_translation.png)
+![Schritt 5](Bilder/rotation_und_translation.png)
 
 
 
