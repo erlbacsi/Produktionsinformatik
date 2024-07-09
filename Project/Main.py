@@ -60,7 +60,11 @@ fig = plt.figure(figsize=(10, 10), num="Ausgangssituation")
 #axes = fig.add_subplot(111, projection="3d")
 axes = mplot3d.Axes3D(fig, auto_add_to_figure=False)
 fig.add_axes(axes)
+
+#---------------- Original stl-data -----------------------------------#
 m1 = stl.Mesh.from_file("D:\Ingenieurinformatik\Produktionsinformatik\Testdateien\Wuerfel_original.stl")
+#----------------------------------------------------------------------#
+
 axes.add_collection3d(mplot3d.art3d.Poly3DCollection(m1.vectors))
 axes.scatter(x, y, z, c="red")
 axes.set_zlim3d(-5, 20)
