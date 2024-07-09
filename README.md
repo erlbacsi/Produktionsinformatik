@@ -14,17 +14,17 @@ Before you start, make sure that you have fulfilled the following requirements:
 ## Installation
 Führen Sie die folgenden Schritte aus, um das Projekt zu starten:
 
-1. **Repository klonen:**
+1. **Clone Repo:**
     ```bash
     git clone https://github.com/erlbacsi/Produktionsinformatik.git
     ```
 
-2. **In das Projektverzeichnis wechseln:**
+2. **Change to project folder:**
     ```bash
     cd Project
     ```
 
-3. **Abhängigkeiten installieren:**
+3. **Install dependencies:**
     ```bash
     pip install -r Requirements.txt
     ```
