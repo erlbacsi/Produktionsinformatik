@@ -12,7 +12,7 @@ Before you start, make sure that you have fulfilled the following requirements:
 - stl-datafile and a sliced version the component after the printing cycle
 
 ## Installation
-Führen Sie die folgenden Schritte aus, um das Projekt zu starten:
+Carry out the following steps to start the project:
 
 1. **Clone Repo:**
     ```bash
@@ -30,7 +30,7 @@ Führen Sie die folgenden Schritte aus, um das Projekt zu starten:
     ```
 
 ## Application
-Nach der Installation können Sie das Projekt wie folgt starten:
+After installation, you can start the project as follows:
 
 1. **Set data paths:**
     The file Main.py contains two marked paths, for the specific data files. The variable **path** keeps the directory for the sliced component pictures. The variable **path_stl** keeps the directory to the stl-datafile.
